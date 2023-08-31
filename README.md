@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hola 👋, soy Santiago Ochoa
 
-<!--
-**sochoav1/sochoav1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería Física e Ingeniería Matemática.
 
-Here are some ideas to get you started:
+🔭 Destaco en:
+- Python y Django
+- Java
+- JavaScript y sus frameworks como React y Node.js
+- Desarrollo web
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Proyectos destacados**:
+- 🧠 [Red Neuronal Desde Scratch](https://github.com/sochoav1/Neural-Network-From-Scratch)
+- 🔐 [Encriptador con Atractor de Clifford](https://github.com/sochoav1/CliffordAttractor)
+
+📫 **Cómo contactarme**:
+- [LinkedIn](https://www.linkedin.com/in/sochoav/)
+- [Email](mailto:sochoav8a@gmail.com)
+
+💼 **Lenguajes y herramientas**:
+
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=sochoav1&theme=radical&layout=compact)
+![Estadísticas de Santiago Ochoa en GitHub](https://github-readme-stats.vercel.app/api?username=sochoav1&show_icons=true&count_private=true&theme=radical)
+
+
+
+
+
