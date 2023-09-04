@@ -1,28 +1,22 @@
-# Hola 👋, soy Santiago Ochoa
+# Hello 👋, I'm Santiago Ochoa
 
-Estudiante de Ingeniería Física e Ingeniería Matemática.
+Student of Physics Engineering and Mathematical Engineering.
 
-🔭 Destaco en:
-- Python y Django
+🔭 I'm skilled in:
+- Python and Django
 - Java
-- JavaScript y sus frameworks como React y Node.js
-- Desarrollo web
+- JavaScript and its frameworks like React and Node.js
+- Web development
 - Machine Learning
 
-🌱 **Proyectos destacados**:
-- 🧠 [Red Neuronal Desde Scratch](https://github.com/sochoav1/Neural-Network-From-Scratch)
-- 🔐 [Encriptador con Atractor de Clifford](https://github.com/sochoav1/CliffordAttractor)
+🌱 **Highlighted Projects**:
+- 🧠 [Neural Network From Scratch](https://github.com/sochoav1/Neural-Network-From-Scratch)
+- 🔐 [Encryptor using Clifford Attractor](https://github.com/sochoav1/CliffordAttractor)
 
-📫 **Cómo contactarme**:
+📫 **How to reach me**:
 - [LinkedIn](https://www.linkedin.com/in/sochoav/)
 - [Email](mailto:sochoav8a@gmail.com)
 
-💼 **Lenguajes y herramientas**:
-
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=sochoav1&theme=radical&layout=compact)
-![Estadísticas de Santiago Ochoa en GitHub](https://github-readme-stats.vercel.app/api?username=sochoav1&show_icons=true&count_private=true&theme=radical)
-
-
-
-
+💼 **Languages and Tools**:
+_(Here you can add a list of languages and tools or related images. For example, logos for Python, Java, etc.)_
 
