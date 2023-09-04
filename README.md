@@ -17,6 +17,9 @@ Student of Physics Engineering and Mathematical Engineering.
 - [LinkedIn](https://www.linkedin.com/in/sochoav/)
 - [Email](mailto:sochoav8a@gmail.com)
 
-💼 **Languages and Tools**:
-_(Here you can add a list of languages and tools or related images. For example, logos for Python, Java, etc.)_
+![Santiago Ochoa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sochoav1&show_icons=true&count_private=true&theme=radical)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sochoav1&theme=radical&layout=compact)
+
 
