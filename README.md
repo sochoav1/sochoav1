@@ -17,10 +17,10 @@ Student of Physics Engineering and Mathematical Engineering.
 - [LinkedIn](https://www.linkedin.com/in/sochoav/)
 - [Email](mailto:sochoav8a@gmail.com)
 
-![Santiago Ochoa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sochoav1&show_icons=true&count_private=true&theme=radical)
+![Santiago Ochoa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sochoav1&show_icons=true&count_private=true&theme=light)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sochoav1&theme=radical&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sochoav1&theme=radical&layout=light)
 
 
 
