@@ -19,9 +19,7 @@ Student of Physics Engineering and Mathematical Engineering.
 
 ![Santiago Ochoa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sochoav1&show_icons=true&count_private=true&theme=light)
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sochoav1&theme=radical&layout=default)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sochoav1&theme=light&layout=compact)
 
 
 
