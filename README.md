@@ -23,4 +23,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sochoav1&theme=light&layout=compact)
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/sochoav1/sochoav1/blob/output/github-contribution-grid-snake.gif)
