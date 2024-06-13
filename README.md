@@ -19,9 +19,13 @@
 - [LinkedIn](https://www.linkedin.com/in/sochoav/)
 - [Email](mailto:sochoav8a@gmail.com)
 
-![Santiago Ochoa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sochoav1&show_icons=true&count_private=true&theme=light)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sochoav1&theme=light&layout=compact)
+ <br>
+  <div align="center">
+    <a href="https://github.com/JCruzMi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JCruzMi&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCruzMi&layout=compact&langs_count=7&theme=gotham"/><br>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JCruzMi&theme=gotham"/>
+  </div>
 
 <img src="https://raw.githubusercontent.com/sochoav1/sochoav1/output/snake.svg" alt="Snake animation" />
 
