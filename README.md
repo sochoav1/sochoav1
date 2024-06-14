@@ -1,9 +1,7 @@
-
+<br>
 <div align="center">
     <div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=800&size=40&pause=1000&color=9338C9&random=True&width=500&lines=Hi+I'm+Santiago!" alt="Typing SVG" />
-    </a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=A04AF7&center=true&vCenter=true&random=true&width=600&height=80&lines=Hi+i+am+Santiago!" alt="Typing SVG" /></a>
 </div>
     <p>🔧 I'm passionate about web development, creating amazing and functional experiences.</p>
     <p>🤖 Additionally, Artificial Intelligence fascinates me. After all, AI is linear algebra, and I love linear algebra! 💡</p>
