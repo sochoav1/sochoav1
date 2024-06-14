@@ -1,7 +1,8 @@
+
 <div align="center">
     <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=800&size=30&pause=1000&color=9338C9&random=false&width=435&lines=Hi+I'm+Santiago!" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=800&size=40&pause=1000&color=9338C9&random=True&width=500&lines=Hi+I'm+Santiago!" alt="Typing SVG" />
     </a>
 </div>
     <p>🔧 I'm passionate about web development, creating amazing and functional experiences.</p>
