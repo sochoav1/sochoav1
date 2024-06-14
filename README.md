@@ -1,6 +1,9 @@
 <div align="center">
-    <h1>👋 Hi, I'm Santiago!</h1>
-    <p>Welcome to my GitHub 🚀</p>
+    <div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=800&size=30&pause=1000&color=9338C9&random=false&width=435&lines=Hi+I'm+Santiago!" alt="Typing SVG" />
+    </a>
+</div>
     <p>🔧 I'm passionate about web development, creating amazing and functional experiences.</p>
     <p>🤖 Additionally, Artificial Intelligence fascinates me. After all, AI is linear algebra, and I love linear algebra! 💡</p>
     <p>🎓 Continuously exploring the world of Deep Learning and applying my knowledge to every project.</p>
